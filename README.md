@@ -1,2 +1,2 @@
 # Silver-Rat
-Silver-Rat a remote access trojanx
+Silver-Rat a remote access trojan
